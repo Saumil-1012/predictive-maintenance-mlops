@@ -41,6 +41,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate model files
+        run: |
+          pip install scikit-learn pandas numpy joblib
+          python ml/train.py
+
       - name: Build Docker image
         run: docker build -t pred-maint:${{ github.sha }} .
 
@@ -52,7 +62,7 @@ jobs:
           docker stop test-container
 
   # ─────────────────────────────────────────────
-  # JOB 3: Deploy to AKS (runs when Azure is ready)
+  # JOB 3: Deploy (activates when Azure is ready)
   # ─────────────────────────────────────────────
   deploy:
     runs-on: ubuntu-latest
@@ -62,10 +72,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Login to Azure Container Registry
+      - name: Azure deployment placeholder
         run: |
-          echo "Azure deployment — activate when AKS is ready"
-          echo "Commands that will run:"
-          echo "  docker login predmaintacr.azurecr.io"
-          echo "  docker push predmaintacr.azurecr.io/pred-maint:${{ github.sha }}"
-          echo "  kubectl set image deployment/pred-maint model-server=predmaintacr.azurecr.io/pred-maint:${{ github.sha }}"
+          echo "Azure deployment will activate when AKS is ready"
+          echo "Will push to: predmaintacr.azurecr.io/pred-maint:${{ github.sha }}"
