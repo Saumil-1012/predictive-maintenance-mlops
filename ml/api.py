@@ -1,18 +1,22 @@
 import joblib
 import numpy as np
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import pandas as pd
 
-# ─────────────────────────────────────────────
-# LOAD MODEL + SCALER ON STARTUP
-# ─────────────────────────────────────────────
-model       = joblib.load("model/model.pkl")
-scaler      = joblib.load("model/scaler.pkl")
+model        = joblib.load("model/model.pkl")
+scaler       = joblib.load("model/scaler.pkl")
 feature_cols = joblib.load("model/feature_cols.pkl")
 
 app = FastAPI(title="Predictive Maintenance API")
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 # ─────────────────────────────────────────────
 # REQUEST SCHEMA
 # Defines exactly what JSON the API expects
