@@ -1,0 +1,492 @@
+[
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302322.2606962,
+    "datetime": "2026-09-01T22:38:42.260853Z",
+    "temperature_c": 93.65,
+    "vibration_g": 0.356,
+    "pressure_bar": 103.78,
+    "rpm": 2972.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302325.2627578,
+    "datetime": "2026-09-01T22:38:45.262797Z",
+    "temperature_c": 84.31,
+    "vibration_g": 0.17,
+    "pressure_bar": 103.25,
+    "rpm": 3011.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302328.26545,
+    "datetime": "2026-09-01T22:38:48.265480Z",
+    "temperature_c": 88.53,
+    "vibration_g": 0.225,
+    "pressure_bar": 101.06,
+    "rpm": 3022.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302331.268023,
+    "datetime": "2026-09-01T22:38:51.268045Z",
+    "temperature_c": 91.07,
+    "vibration_g": 0.12,
+    "pressure_bar": 109.31,
+    "rpm": 2921.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302334.2706602,
+    "datetime": "2026-09-01T22:38:54.270696Z",
+    "temperature_c": 81.96,
+    "vibration_g": 0.447,
+    "pressure_bar": 100.34,
+    "rpm": 3077.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302337.272917,
+    "datetime": "2026-09-01T22:38:57.272950Z",
+    "temperature_c": 142.23,
+    "vibration_g": 2.735,
+    "pressure_bar": 101.09,
+    "rpm": 2955.2,
+    "is_anomaly_injected": true
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302340.2759821,
+    "datetime": "2026-09-01T22:39:00.276017Z",
+    "temperature_c": 76.06,
+    "vibration_g": 0.191,
+    "pressure_bar": 109.6,
+    "rpm": 2939.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302343.279236,
+    "datetime": "2026-09-01T22:39:03.279269Z",
+    "temperature_c": 71.96,
+    "vibration_g": 0.344,
+    "pressure_bar": 100.09,
+    "rpm": 2974.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302346.282565,
+    "datetime": "2026-09-01T22:39:06.282599Z",
+    "temperature_c": 91.73,
+    "vibration_g": 0.477,
+    "pressure_bar": 101.91,
+    "rpm": 2975.9,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302349.285764,
+    "datetime": "2026-09-01T22:39:09.285800Z",
+    "temperature_c": 86.11,
+    "vibration_g": 0.408,
+    "pressure_bar": 106.72,
+    "rpm": 3024.0,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302352.288897,
+    "datetime": "2026-09-01T22:39:12.288916Z",
+    "temperature_c": 83.13,
+    "vibration_g": 0.444,
+    "pressure_bar": 103.23,
+    "rpm": 3043.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302355.291442,
+    "datetime": "2026-09-01T22:39:15.291478Z",
+    "temperature_c": 91.33,
+    "vibration_g": 0.239,
+    "pressure_bar": 102.02,
+    "rpm": 2918.8,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302358.295291,
+    "datetime": "2026-09-01T22:39:18.295321Z",
+    "temperature_c": 75.39,
+    "vibration_g": 0.394,
+    "pressure_bar": 106.25,
+    "rpm": 2963.9,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302361.2987368,
+    "datetime": "2026-09-01T22:39:21.298775Z",
+    "temperature_c": 90.73,
+    "vibration_g": 0.14,
+    "pressure_bar": 104.8,
+    "rpm": 2934.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302364.301862,
+    "datetime": "2026-09-01T22:39:24.301878Z",
+    "temperature_c": 72.26,
+    "vibration_g": 0.306,
+    "pressure_bar": 101.4,
+    "rpm": 2917.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302367.304352,
+    "datetime": "2026-09-01T22:39:27.304371Z",
+    "temperature_c": 75.17,
+    "vibration_g": 0.453,
+    "pressure_bar": 106.75,
+    "rpm": 2975.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302370.3075168,
+    "datetime": "2026-09-01T22:39:30.307549Z",
+    "temperature_c": 76.04,
+    "vibration_g": 0.347,
+    "pressure_bar": 107.87,
+    "rpm": 3031.0,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302373.3106408,
+    "datetime": "2026-09-01T22:39:33.310678Z",
+    "temperature_c": 76.87,
+    "vibration_g": 0.24,
+    "pressure_bar": 102.5,
+    "rpm": 2936.5,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302376.314292,
+    "datetime": "2026-09-01T22:39:36.314326Z",
+    "temperature_c": 88.08,
+    "vibration_g": 0.133,
+    "pressure_bar": 103.98,
+    "rpm": 3067.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302379.317776,
+    "datetime": "2026-09-01T22:39:39.317786Z",
+    "temperature_c": 70.01,
+    "vibration_g": 0.375,
+    "pressure_bar": 107.2,
+    "rpm": 2984.5,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302382.319628,
+    "datetime": "2026-09-01T22:39:42.319656Z",
+    "temperature_c": 75.96,
+    "vibration_g": 0.458,
+    "pressure_bar": 109.87,
+    "rpm": 2912.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302385.3227189,
+    "datetime": "2026-09-01T22:39:45.322753Z",
+    "temperature_c": 76.12,
+    "vibration_g": 0.355,
+    "pressure_bar": 101.09,
+    "rpm": 2943.9,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302388.326405,
+    "datetime": "2026-09-01T22:39:48.326430Z",
+    "temperature_c": 76.44,
+    "vibration_g": 0.476,
+    "pressure_bar": 100.05,
+    "rpm": 2982.9,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302391.3294258,
+    "datetime": "2026-09-01T22:39:51.329456Z",
+    "temperature_c": 74.32,
+    "vibration_g": 0.317,
+    "pressure_bar": 107.82,
+    "rpm": 2949.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302394.332751,
+    "datetime": "2026-09-01T22:39:54.332781Z",
+    "temperature_c": 78.16,
+    "vibration_g": 0.116,
+    "pressure_bar": 106.59,
+    "rpm": 2987.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302397.338144,
+    "datetime": "2026-09-01T22:39:57.338180Z",
+    "temperature_c": 89.58,
+    "vibration_g": 0.359,
+    "pressure_bar": 107.98,
+    "rpm": 3013.8,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302400.342072,
+    "datetime": "2026-09-01T22:40:00.342111Z",
+    "temperature_c": 75.69,
+    "vibration_g": 0.216,
+    "pressure_bar": 107.27,
+    "rpm": 2957.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302403.346494,
+    "datetime": "2026-09-01T22:40:03.346526Z",
+    "temperature_c": 94.78,
+    "vibration_g": 0.466,
+    "pressure_bar": 105.76,
+    "rpm": 2948.0,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302406.350513,
+    "datetime": "2026-09-01T22:40:06.350529Z",
+    "temperature_c": 80.94,
+    "vibration_g": 0.36,
+    "pressure_bar": 104.56,
+    "rpm": 2942.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302409.352983,
+    "datetime": "2026-09-01T22:40:09.353018Z",
+    "temperature_c": 81.92,
+    "vibration_g": 0.133,
+    "pressure_bar": 107.33,
+    "rpm": 2910.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302412.357285,
+    "datetime": "2026-09-01T22:40:12.357320Z",
+    "temperature_c": 93.2,
+    "vibration_g": 0.222,
+    "pressure_bar": 103.77,
+    "rpm": 3008.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302415.361631,
+    "datetime": "2026-09-01T22:40:15.361666Z",
+    "temperature_c": 90.5,
+    "vibration_g": 0.252,
+    "pressure_bar": 103.47,
+    "rpm": 3046.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302418.366534,
+    "datetime": "2026-09-01T22:40:18.366568Z",
+    "temperature_c": 78.46,
+    "vibration_g": 0.199,
+    "pressure_bar": 109.59,
+    "rpm": 2946.6,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302421.371335,
+    "datetime": "2026-09-01T22:40:21.371366Z",
+    "temperature_c": 73.63,
+    "vibration_g": 0.188,
+    "pressure_bar": 105.58,
+    "rpm": 2911.1,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302424.37569,
+    "datetime": "2026-09-01T22:40:24.375727Z",
+    "temperature_c": 70.33,
+    "vibration_g": 0.434,
+    "pressure_bar": 102.36,
+    "rpm": 2925.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302427.380692,
+    "datetime": "2026-09-01T22:40:27.380705Z",
+    "temperature_c": 80.44,
+    "vibration_g": 0.304,
+    "pressure_bar": 109.43,
+    "rpm": 2925.8,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302430.383987,
+    "datetime": "2026-09-01T22:40:30.384004Z",
+    "temperature_c": 80.03,
+    "vibration_g": 0.459,
+    "pressure_bar": 104.07,
+    "rpm": 2995.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302433.387019,
+    "datetime": "2026-09-01T22:40:33.387055Z",
+    "temperature_c": 88.56,
+    "vibration_g": 0.499,
+    "pressure_bar": 109.08,
+    "rpm": 3013.2,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302436.391486,
+    "datetime": "2026-09-01T22:40:36.391500Z",
+    "temperature_c": 143.73,
+    "vibration_g": 2.894,
+    "pressure_bar": 106.63,
+    "rpm": 2984.0,
+    "is_anomaly_injected": true
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302439.3938391,
+    "datetime": "2026-09-01T22:40:39.393849Z",
+    "temperature_c": 86.66,
+    "vibration_g": 0.429,
+    "pressure_bar": 105.92,
+    "rpm": 3035.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302442.396121,
+    "datetime": "2026-09-01T22:40:42.396158Z",
+    "temperature_c": 72.42,
+    "vibration_g": 0.308,
+    "pressure_bar": 101.02,
+    "rpm": 3048.6,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302445.400466,
+    "datetime": "2026-09-01T22:40:45.400479Z",
+    "temperature_c": 92.0,
+    "vibration_g": 0.209,
+    "pressure_bar": 100.57,
+    "rpm": 3016.3,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302448.402554,
+    "datetime": "2026-09-01T22:40:48.402590Z",
+    "temperature_c": 72.65,
+    "vibration_g": 0.218,
+    "pressure_bar": 107.58,
+    "rpm": 3056.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302451.406941,
+    "datetime": "2026-09-01T22:40:51.406969Z",
+    "temperature_c": 76.8,
+    "vibration_g": 0.374,
+    "pressure_bar": 101.93,
+    "rpm": 2928.9,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302454.4095209,
+    "datetime": "2026-09-01T22:40:54.409556Z",
+    "temperature_c": 75.41,
+    "vibration_g": 0.459,
+    "pressure_bar": 106.99,
+    "rpm": 2988.1,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302457.414655,
+    "datetime": "2026-09-01T22:40:57.414700Z",
+    "temperature_c": 82.28,
+    "vibration_g": 0.223,
+    "pressure_bar": 107.98,
+    "rpm": 2937.7,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302460.418665,
+    "datetime": "2026-09-01T22:41:00.418690Z",
+    "temperature_c": 79.46,
+    "vibration_g": 0.455,
+    "pressure_bar": 107.41,
+    "rpm": 3015.4,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302463.423035,
+    "datetime": "2026-09-01T22:41:03.423062Z",
+    "temperature_c": 78.03,
+    "vibration_g": 0.446,
+    "pressure_bar": 102.97,
+    "rpm": 3059.6,
+    "is_anomaly_injected": false
+  },
+  {
+    "device_id": "machine-001",
+    "timestamp": 1788302466.428373,
+    "datetime": "2026-09-01T22:41:06.428405Z",
+    "temperature_c": 88.41,
+    "vibration_g": 0.21,
+    "pressure_bar": 103.66,
+    "rpm": 3081.9,
+    "is_anomaly_injected": false
+  }
+]
