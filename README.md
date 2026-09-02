@@ -1,6 +1,5 @@
-No problem — I know your full project structure from our entire session. Here's the perfect README. Open `README.md` in VS Code, delete everything, and paste this:
 
-```markdown
+``s`markdown
 # ⚙️ Predictive Maintenance MLOps Pipeline
 
 An enterprise-grade, end-to-end MLOps system that detects industrial machine anomalies in real time using IoT sensors, machine learning, and a full cloud deployment on Azure.
@@ -14,8 +13,6 @@ An enterprise-grade, end-to-end MLOps system that detects industrial machine ano
 ## 📌 Project Overview
 
 This system simulates a factory floor where machines emit sensor telemetry (temperature, vibration, pressure, RPM). An **Isolation Forest** ML model detects anomalies in real time. The entire pipeline — from data ingestion to live dashboard — is containerized, deployed to Azure, and monitored for data drift.
-
-Built as part of the Advanced Machine Learning course at **TU Munich**.
 
 ---
 
