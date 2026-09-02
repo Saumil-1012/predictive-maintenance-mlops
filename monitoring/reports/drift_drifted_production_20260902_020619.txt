@@ -1,0 +1,4 @@
+Drift Report — drifted production
+Generated: 2026-09-02T02:06:19.221828
+Dataset drift: True
+Drifted columns: ['temperature_c', 'vibration_g', 'pressure_bar', 'rpm']
