@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ReferenceLine, ResponsiveContainer } from "recharts";
 import axios from "axios";
 
-const API_URL = "http://localhost:8000";
+const API_URL = "http://predmaintapi3.eastus.azurecontainer.io";
 const MAX_POINTS = 20;
 
 function StatusBadge({ isAnomaly }) {
