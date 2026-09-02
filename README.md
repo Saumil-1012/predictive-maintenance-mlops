@@ -353,11 +353,3 @@ Azure MLOps Predictive Maintenance Pipeline
 
 MIT License — free to use for educational purposes.
 ```
-
-Hit **Cmd+S** then:
-
-```bash
-git add README.md
-git commit -m "docs: Complete professional README"
-git push origin main
-```
