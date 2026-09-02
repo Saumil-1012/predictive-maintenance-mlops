@@ -3,7 +3,8 @@
 An enterprise-grade predictive maintenance system that detects machine anomalies in real time using IoT sensors, machine learning, and a full MLOps pipeline on Azure.
 
 ![Dashboard](docs/dashboard-live.png)
-
+## Live Demo
+https://github.com/Saumil-1012/predictive-maintenance-mlops/blob/main/docs/demo/dashboard-demo.mov
 ---
 
 ## Architecture
