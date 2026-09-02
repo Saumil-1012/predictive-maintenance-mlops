@@ -327,6 +327,7 @@ az container create \
   --dns-name-label predmaintapi3 \
   --ports 80 --cpu 1 --memory 1.5 \
   --location eastus
+
 ```
 
 ---
@@ -340,6 +341,19 @@ az group delete --name pred-maint-rg --yes
 ```
 
 ---
+## 🔗 Industry Parallels
+
+The architecture patterns used in this project directly map to enterprise ML platforms:
+
+| This Project | Enterprise Equivalent |
+|---|---|
+| Azure IoT Hub | SAP IoT, AWS IoT Core |
+| Azure Databricks | SAP Datasphere, Databricks on AWS |
+| Azure Machine Learning | SAP AI Core, AWS SageMaker |
+| Azure Container Instances | SAP AI Core Serving, AWS ECS |
+| GitHub Actions CI/CD | SAP Continuous Delivery, Jenkins |
+| Evidently Drift Monitor | SAP AI Core Monitoring, Fiddler AI |
+
 
 ## 👨‍💻 Author
 
